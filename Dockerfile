@@ -1,4 +1,5 @@
-FROM python
+FROM node:22-alpine
+
 
 WORKDIR /home/node
 
