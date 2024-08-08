@@ -1,5 +1,4 @@
-FROM node:22-alpine
-
+FROM nikolaik/python-nodejs
 
 WORKDIR /home/node
 
